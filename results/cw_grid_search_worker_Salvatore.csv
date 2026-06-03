@@ -1,0 +1,13 @@
+WORKER,max_iter,learning_rate,confidence,Mean_Linf_Applied,Time_Elapsed (s)
+Salvatore,5,0.001,0.0,0.0007,2216.05
+Salvatore,5,0.001,0.5,0.0007,2782.59
+Salvatore,5,0.001,1.0,0.0008,2966.09
+Salvatore,5,0.01,0.0,0.0062,5161.74
+Salvatore,5,0.01,0.5,0.0062,5217.55
+Salvatore,5,0.01,1.0,0.0062,5268.88
+Salvatore,5,0.05,0.0,0.025,5256.24
+Salvatore,5,0.05,0.5,0.025,5134.68
+Salvatore,5,0.05,1.0,0.025,4190.84
+Salvatore,5,0.1,0.0,0.05,4964.35
+Salvatore,5,0.1,0.5,0.05,2489.99
+Salvatore,5,0.1,1.0,0.05,3653.22

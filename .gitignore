@@ -1,3 +1,6 @@
 .venv
 dataset/dataset_1_per_person
 dataset/dataset_100_subjects
+.idea
+adversarial_data
+results/FGSM NT vs NN1.docx
