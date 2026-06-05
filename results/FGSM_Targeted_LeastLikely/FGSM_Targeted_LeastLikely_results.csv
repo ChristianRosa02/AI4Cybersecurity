@@ -1,0 +1,8 @@
+attack_name,target_mode,epsilon,successful_attacks,total_images,attack_success_rate,time_elapsed_s
+FGSM_Targeted_LeastLikely,LeastLikely,0.001,0,1000,0.0,18.15
+FGSM_Targeted_LeastLikely,LeastLikely,0.003,0,1000,0.0,17.85
+FGSM_Targeted_LeastLikely,LeastLikely,0.005,0,1000,0.0,19.73
+FGSM_Targeted_LeastLikely,LeastLikely,0.01,0,1000,0.0,17.55
+FGSM_Targeted_LeastLikely,LeastLikely,0.03,0,1000,0.0,18.14
+FGSM_Targeted_LeastLikely,LeastLikely,0.05,1,1000,0.1,17.98
+FGSM_Targeted_LeastLikely,LeastLikely,0.1,1,1000,0.1,19.14
