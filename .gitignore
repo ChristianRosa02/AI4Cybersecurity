@@ -5,3 +5,4 @@ dataset/dataset_100_subjects
 adversarial_data
 results/FGSM NT vs NN1.docx
 models/resnet50_ft_weight.pkl
+adversarial_data.zip
