@@ -1,0 +1,9 @@
+Attack,Metric,Dataset_Size,Baseline_Clean,No_Defense,JPEG_q10,JPEG_q50,JPEG_q80,Delta_q10,Delta_q50,Delta_q80
+FGSM_Untargeted,ACCURACY,1000,8510.00%,0.10%,0.50%,0.30%,0.20%,+0.40%,+0.20%,+0.10%
+FGSM_Targeted_Fixed,ASR,1000,8510.00%,7.90%,1.20%,5.10%,6.30%,-6.70%,-2.80%,-1.60%
+BIM_Untargeted,ACCURACY,1000,8510.00%,0.00%,0.00%,0.00%,0.00%,+0.00%,+0.00%,+0.00%
+BIM_Targeted_Fixed,ASR,1000,8510.00%,100.00%,2.60%,96.80%,99.80%,-97.40%,-3.20%,-0.20%
+PGD_Untargeted,ACCURACY,1000,8510.00%,0.00%,0.60%,0.00%,0.00%,+0.60%,+0.00%,+0.00%
+PGD_Targeted_Fixed,ASR,1000,8510.00%,100.00%,1.30%,91.50%,99.30%,-98.70%,-8.50%,-0.70%
+CW_Untargeted,ACCURACY,100,8700.00%,0.00%,0.00%,0.00%,0.00%,+0.00%,+0.00%,+0.00%
+DeepFool_Untargeted,ACCURACY,100,8700.00%,0.00%,0.00%,0.00%,0.00%,+0.00%,+0.00%,+0.00%
