@@ -1,0 +1,6 @@
+family,variant,n_configs,detection_rate_mean,detection_rate_std
+FGSM,untargeted,1,96.39,0.0
+BIM,untargeted,3,82.1,20.94
+PGD,untargeted,4,88.49,14.68
+CW,untargeted,1,99.17,0.0
+DeepFool,untargeted,1,93.57,0.0
